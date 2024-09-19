@@ -25,5 +25,5 @@ export const SUPPORTED_LANG = [
 
 // export const OPEN_AI =  process.env.REACT_APP_OPENAI_KEY;
 
-export const OPEN_AI =  "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";
+export const OPEN_AI =  "API Key";
 
